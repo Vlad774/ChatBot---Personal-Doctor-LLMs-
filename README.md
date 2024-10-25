@@ -6,10 +6,11 @@ Welcome to the AI Doctor Chatbot project, where we leverage the power of Large L
 
 ## Languages and Utilities Used
 
-- **Python:** Core programming language.
-- **Gymnasium:** Simulation environment for training the agent.
-- **PyTorch:** Deep learning framework used to implement and train the DQN model.
-- **Deep Q-Learning (DQN):** Reinforcement learning algorithm that combines Q-learning with deep neural networks for decision-making.
+- **Hugging Face Transformers:** Essential for loading, fine-tuning, and interacting with the Llama 2 model.
+- **PyTorch:** Core deep learning framework used for model training and deployment.
+- **BitsAndBytes:** Enables memory-efficient 4-bit quantization for large models.
+- **PEFT (LoRA):** Key for performing lightweight, parameter-efficient fine-tuning.
+- **TRL (SFTTrainer):** Specialized for supervised fine-tuning of language models like Llama 2.
 
 ## Objective
 
@@ -21,3 +22,8 @@ Welcome to the AI Doctor Chatbot project, where we leverage the power of Large L
   
 
 ## Walk-through:
+ ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Coronavirus.png) 
+ ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Coronavirus_avoid.png) 
+ ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Influenza%20A.png)
+ ![First try](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Influenza%20A%20treatment.png)
+ ![CODE](https://github.com/Vlad774/ChatBot---Personal-Doctor-LLMs-/blob/main/Fine-Tuning%20LLMs%20with%20Hugging%20Face.txt)
