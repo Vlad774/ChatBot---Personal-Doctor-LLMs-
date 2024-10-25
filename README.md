@@ -1,10 +1,8 @@
-# CNN model Pacman game
+# ChatBot Personal Doctor LLMs
 
 ## Description
 
-In this project, I developed an advanced AI model based on Deep Convolutional Q-Learning to train an agent capable of playing Pac-Man. The model integrates a Convolutional Neural Network (CNN) and a fully connected neural network to process the visual inputs of the game. By combining CNN for image recognition and Deep Q-Learning for decision-making, the AI agent is able to "see" the game screen and take actions based on the rewards from the environment, learning optimal strategies over time.
-
-The goal of this project was to implement a model that learns to master Pac-Man autonomously, improving performance by playing numerous rounds and learning from experience.
+Welcome to the AI Doctor Chatbot project, where we leverage the power of Large Language Models (LLMs) to create a virtual healthcare assistant. This project aims to enhance user understanding of medical terminology and provide accurate health-related information.
 
 ## Languages and Utilities Used
 
@@ -15,7 +13,11 @@ The goal of this project was to implement a model that learns to master Pac-Man 
 
 ## Objective
 
-- **The goal of this project was to implement a model that learns to master Pac-Man autonomously, improving performance by playing numerous rounds and learning from experience.**
-- **The project demonstrates the application of AI in solving complex control problems in a simulated environment.**
+- **Understanding LLMs: We'll begin by exploring the fundamental components of Large Language Models, including their architecture, parameters, and the mechanics behind text generation.**
+- **Historical Context: Discover the pioneers of LLM technology and their contributions to the field.**
+- **Technical Insights: Delve into the inner workings of LLMs, focusing on parameters and the context window that enables effective communication.**
+- **Fine-Tuning Process: Learn how to fine-tune a pre-trained LLM, specifically Llama 2 by Meta, using Hugging Face's tools to adapt it for our medical-themed conversations.**
+- **Building the Chatbot: Finally, we'll integrate all these concepts to develop an AI Doctor Chatbot capable of answering medical queries, providing guidance, and assisting users with reliable health information.**
+  
 
 ## Walk-through:
